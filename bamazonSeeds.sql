@@ -31,4 +31,4 @@ VALUES ("C78B79", "Alfalfa Cube Treats, 15oz.", "Treats", 9.99, 112);
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
 VALUES ("D54T01", "Snack Log, 8.5 in.", "Treats", 7.99, 38);
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("W27K18", "Apple Wood Stickts", "Treats", 6.99, 53);
+VALUES ("W27K18", "Apple Wood Sticks", "Treats", 6.99, 53);
