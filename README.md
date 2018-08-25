@@ -22,7 +22,7 @@ Users must supply their own user and password information for connection to the 
 Check out my demo video at: https://drive.google.com/file/d/1_r6gj84qQC4hd_LIUw4fjML7uDad-82M/view
 
 ### Get the Node Packages
-mySQL: https://www.npmjs.com/package/mysql
-inquirer: https://www.npmjs.com/package/inquirer
-chalk: https://www.npmjs.com/package/chalk
-figures: https://www.npmjs.com/search?q=figures
+* mySQL: https://www.npmjs.com/package/mysql
+* inquirer: https://www.npmjs.com/package/inquirer
+* chalk: https://www.npmjs.com/package/chalk
+* figures: https://www.npmjs.com/search?q=figures
